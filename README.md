@@ -20,7 +20,7 @@ I followed an iterative design process:
 - Creating individual objects  
 - Refining interactions  
 
-These strategies—like **prototyping** and **documenting design choices** will help in future projects where complex systems need to be well-organized and maintainable.
+These strategies, like **prototyping** and **documenting design choices**, will help in future projects where complex systems need to be well-organized and maintainable.
 
 ### Developing Programs
 When developing the 3D scene, I focused on:  
